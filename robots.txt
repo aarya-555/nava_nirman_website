@@ -1,0 +1,6 @@
+# Nava Nirman — Mud Interlock Bricks Industries
+User-agent: *
+Allow: /
+
+# Replace YOUR-DOMAIN with your live domain after deploying
+Sitemap: https://YOUR-DOMAIN/sitemap.xml
