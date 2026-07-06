@@ -64,6 +64,8 @@ h1,h2,h3{font-family:var(--display);line-height:1.05;letter-spacing:-.02em;color
 .btn-terra:hover{background:var(--terra-700);transform:translateY(-2px)}
 .btn-ghost{background:transparent;border-color:var(--line);color:var(--navy)}
 .btn-ghost:hover{border-color:var(--navy);transform:translateY(-2px)}
+.btn-whatsapp{background:#25d366;border-color:#25d366;color:#fff;box-shadow:0 8px 22px rgba(37,211,102,.35)}
+.btn-whatsapp:hover{background:#1ebc5a;border-color:#1ebc5a;transform:translateY(-2px);box-shadow:0 12px 28px rgba(37,211,102,.45)}
 .btn-light{background:#fff;color:var(--navy)}
 .btn-light:hover{transform:translateY(-2px);box-shadow:var(--shadow-md)}
 
